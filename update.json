@@ -1,8 +1,8 @@
 {
-  "build": 4,
+  "build": 5,
   "name": "game.bin",
-  "notes": "Neuer Ladebildschirm mit Update-Prüfung",
-  "sha256": "e371a9cfefb7efb55d7cb1f0bcfc84883bdd830ecaa2c67665ce2e968062b169",
-  "sig": "+uJCoDZedOdLk94wTPdkp/6Lb4rCx//9ecpuLx+/inqDK56waaxTnQIkGeklvi3hqYcLiKCZCpy6MEmDpjVUBQ==",
+  "notes": "Test-Update für den neuen Ladebildschirm",
+  "sha256": "dc505bdcb2ea789fd701c2c0b667f0639b8007a4e89492403b918eb218a232d0",
+  "sig": "QZ5LyK6C66VHYC+wHwdnR936jJa4Jc5d+SWI92AzPcTePU1h4A/kbnDaoiHDGchS0gDZ8N0HlqGVzpwYqEqcCQ==",
   "size": 17586122
 }
