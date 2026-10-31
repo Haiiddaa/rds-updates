@@ -1,8 +1,8 @@
 {
-  "build": 6,
-  "name": "game-6.bin",
-  "notes": "Update-Prüfung ohne Verzögerung",
-  "sha256": "f9fba5f0c42ee99d9f9f6ad91f09167549fa013bd546740dccae9bc0687f3f89",
-  "sig": "9iISOKMIhI9FGfsBUbx0xZotE45c6SGsqsylSLkRNekVAB1IJJoS0+ewLJUuo6yxX1i5w6ES5ZuQG7zY0hFbDg==",
+  "build": 7,
+  "name": "game-7.bin",
+  "notes": "Test-Update",
+  "sha256": "72b33b6f6d0f8e065f8f5ac6c9a62b411ce4a94c0e04306a3c28000fe64e2964",
+  "sig": "p/bJ69dczRaHBrJxN4Hzz2UnuG7LDYyJKbmJv/xy/J5byT8XPziFHWiOtlew5yM4JNH+8e31KsQ4cNVWNvTsDQ==",
   "size": 17586122
 }
