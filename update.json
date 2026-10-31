@@ -2,7 +2,7 @@
   "build": 2,
   "name": "game.bin",
   "notes": "Erste Version mit Auto-Update",
-  "sha256": "76d6160c64eb205a1b6103d4194165b1b7e26b214a2ae4f91ff303c46ebe4584",
-  "sig": "hpj8n7lbsYuKMyDSq8ASFhilCLhJKUSkgRirjUtYooT+A4zyh7u0WB5bGiQp6QooJcsJaW18G0x8XMxN/SjXDA==",
-  "size": 19092098
+  "sha256": "fbec2735b36badf7f6634bd73e144a7fa98f01e9d9a0244324c34a5252fa6c10",
+  "sig": "hkwEJLqlqLDLoDlVYiBXh0JGbhqU+mzJWX6AzK5Lthea+hN+uTjjXYcQ5BZ2j0L0P/Rp1IAnkjoV923DkjA/Bw==",
+  "size": 17586116
 }
