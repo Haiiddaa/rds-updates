@@ -1,8 +1,8 @@
 {
-  "build": 3,
+  "build": 4,
   "name": "game.bin",
-  "notes": "Test-Update: Versionsnummer im Hauptmenü",
-  "sha256": "58d0a7eb03eaf6ef23ca028d1a269f665cd8eb7c57385ad753a55de2738e07c0",
-  "sig": "mFU1WkSAvpeJX/pfrT9gPZM67IUmbBqxm1/cablh6dKXFkKkCp+yzzhlcmLlUhhMypY+ArJcNjsjqHEnmvccDQ==",
-  "size": 17586120
+  "notes": "Neuer Ladebildschirm mit Update-Prüfung",
+  "sha256": "e371a9cfefb7efb55d7cb1f0bcfc84883bdd830ecaa2c67665ce2e968062b169",
+  "sig": "+uJCoDZedOdLk94wTPdkp/6Lb4rCx//9ecpuLx+/inqDK56waaxTnQIkGeklvi3hqYcLiKCZCpy6MEmDpjVUBQ==",
+  "size": 17586122
 }
