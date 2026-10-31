@@ -1,8 +1,8 @@
 {
-  "build": 8,
-  "name": "game-8.bin",
-  "notes": "Hauptmenü direkt nach dem Ladebildschirm",
-  "sha256": "b0166a61153bc2a38660369871fd6bfef208268acd73a44937460c2da7642969",
-  "sig": "GJ6ndC1N7oO89KtB8QaARuhWsnKAnA8Rq5nUdg5Gviq0uRp9i+FhYhZoOipwOxCz3ZOHYEgoJcJqP8n1dqMYBw==",
-  "size": 17586993
+  "build": 9,
+  "name": "game-9.bin",
+  "notes": "Test-Update ohne Änderungen",
+  "sha256": "e0a950f160abc3123e759dde5f00321daa326624b48e54a118993c2f1150c711",
+  "sig": "jNh3u7yVCD885kkS4mJU7cVH2JaR/CRqyX/MOJ7rSIFtFpa3y7HOwGsNE8ZbQuuLfTiuVSCpw0k3SWjQAVInAw==",
+  "size": 17586992
 }
