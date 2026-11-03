@@ -1,8 +1,8 @@
 {
-  "build": 21,
-  "name": "game-21.bin",
-  "notes": "Beatmungsbeutel komplett neu modelliert: länglicher Silikonbeutel mit Griffrillen, durchsichtiges Patientenventil mit sichtbarem Lippenventil und seitlichem Ausatemanschluss, weißes Einlassventil mit grünem O₂-Nippel und knittriger Reservoirbeutel; Sauerstoffschlauch sitzt jetzt am O₂-Nippel des Beutels statt oben am Reservoir; PEEP-Ventil sitzt richtig am Ausatemanschluss; Beatmungsmaske hat jetzt einen 22-mm-Anschluss mit farbigem Hakenring; Beim Beuteln greift der Kollege den Beutel in der Mitte; Defi-Pads und 12-Kanal-EKG: der linke Arm wird zum Kleben nur kurz abgespreizt und danach wieder an den Körper angelegt",
-  "sha256": "306b2bcf27f9d0f71fb6b37ddc52e65c493d3f04fef5c3c6a85f90b7f2eab580",
-  "sig": "3KkIGxcpJk0jpdrJWjkJXQXuzVgoUJcn5pLOzd5MXP+pOkTuMj8/5R3C4Uc6fzBADq6HS8mQg7YRH/wAZWwmAA==",
-  "size": 17698979
+  "build": 22,
+  "name": "game-22.bin",
+  "notes": "Sauerstoffschlauch am Beatmungsbeutel endet nicht mehr in der Luft, sondern ist am grünen Auslass des Druckminderers der Sauerstoffflasche angeschlossen; Gilt genauso für die Schläuche von Sauerstoffmaske, Nasenbrille und Vernebler",
+  "sha256": "a0002c9776bc6d50ab9f58a1be224d2719920b70a0055c52f084c66434b8c47c",
+  "sig": "2eB2lpYo76okoBjgkoU5BzJBhXvChkYo3gYcoBzCU5hmwk8emA0Q/fWo5eWAuJDnz0hIqU9HSwqEdYG5JvX5BQ==",
+  "size": 17699061
 }
