@@ -1,8 +1,8 @@
 {
-  "build": 13,
-  "name": "game-13.bin",
-  "notes": "Neue sichtbare Befunde: Zungenbiss, Shunt rechts, Port und Kachexie beim Palliativpatienten, Fentanylpflaster sichtbar, AED-Pads im Fitnessstudio, Tremor; Rückmeldungen oben links größer und auffälliger",
-  "sha256": "c67da6e6a848b2b3afd23df94730d431126df61b56d4907a211c7d52356a5d93",
-  "sig": "CN8zP3e8ehlgAfsJnYFFhuHp/fElEkksvYc0yAGf9Hg6W8BP20zRrnRWqQaykZk3D3JEAyn9uda8B23/9PejDA==",
-  "size": 17588819
+  "build": 14,
+  "name": "game-14.bin",
+  "notes": "Schocklage: Lagerungskeil liegt jetzt passend unter den angehobenen Beinen",
+  "sha256": "eab817f429f30cc43b9cfb30c897fcd37a16e8b986412b0aac8e0269f8a1da90",
+  "sig": "K8reuoGm01QgaenYik2gF+CuVgvCfoJYeyMeWuH/a4CKamGQCHJtbRiZH6H46ZLszns2Loofs1B99MlK0ZzoCw==",
+  "size": 17590326
 }
