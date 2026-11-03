@@ -1,8 +1,8 @@
 {
-  "build": 9,
-  "name": "game-9.bin",
-  "notes": "Update-Prüfung im Ladebildschirm mit Fortschrittsbalken; Updates werden automatisch geladen und installiert; Hauptmenü erscheint direkt nach dem Ladebildschirm; Versionsnummer unten im Hauptmenü; Kleineres Download-Paket",
-  "sha256": "e0a950f160abc3123e759dde5f00321daa326624b48e54a118993c2f1150c711",
-  "sig": "jNh3u7yVCD885kkS4mJU7cVH2JaR/CRqyX/MOJ7rSIFtFpa3y7HOwGsNE8ZbQuuLfTiuVSCpw0k3SWjQAVInAw==",
-  "size": 17586992
+  "build": 10,
+  "name": "game-10.bin",
+  "notes": "Abhören klingt wieder wie in den ersten Versionen",
+  "sha256": "4846c1d00fb89bb79dc2835520bfe752a4b3b757ade74705db2008149642bd27",
+  "sig": "nu5+yatOnBud3I/rmp0GLEDwSPNAnRH9SB96tVwp0Bjt7LSxIl+j2Out9RRjGymiF/z6jHymNzJ9kNq6E3bPDw==",
+  "size": 17586963
 }
