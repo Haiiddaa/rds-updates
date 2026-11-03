@@ -1,8 +1,8 @@
 {
-  "build": 18,
-  "name": "game-18.bin",
-  "notes": "PEA bei Reanimation sieht nicht mehr wie Sinusrhythmus aus: keine P-Wellen mehr; PEA-Komplexe jetzt breit und flach statt schmal und spitz; PEA-Frequenz langsam und leicht unregelmäßig; PEA-Frequenz maximal 60/min und fällt mit der Zeit bis auf 20/min ab; Sauerstoffmaske sitzt jetzt richtig über Nase und Mund bis zum Kinn statt über der Nase zu schweben; Reservoirmaske sitzt jetzt richtig über Nase und Mund bis zum Kinn; Verneblermaske sitzt jetzt richtig über Nase und Mund bis zum Kinn; Maskensitz bei Erwachsenen, Kindern und Frauen geprüft",
-  "sha256": "1b7359de02980ea7b1a1a42d50fcbbb21e4e073d31c7dd626eaad175bc41f5d2",
-  "sig": "rFUHMP+GbxrbasKZk5kKHQu4fj9QdQNS+dJMEvVVfUbU0LqHyvBwzPWxlZ3bfMosqv/h5bWxFTxVa4dFPu78Dw==",
-  "size": 17595416
+  "build": 19,
+  "name": "game-19.bin",
+  "notes": "Neu: Sprachauswahl beim ersten Start (Deutsch oder English); Neu: komplette englische Übersetzung des Spiels (über 4.200 Texte): Menüs, Patientenmenü, Befunde, Patientensätze, Medikamente, Infusionen, SOPs, Einsatz-Tablet, Auswertung, Ausbildung, Hilfe und Tutorial; Neu: Sprache jederzeit in den Einstellungen umstellbar (Spiel startet danach neu); Neu: Ladebildschirm mit Ladetexten und Tipps auf Englisch; Neu: Meldebilder und Einsatzliste werden auch mit zufälligem Alter und Geschlecht übersetzt; Neu: Profilübersicht und Statistik auf Englisch; Englisch: Patient spricht mit der Windows-Stimme, Untertitel immer auf Englisch; Englisch: Zahlen mit Punkt statt Komma, Datum im englischen Format; Deutsch bleibt unverändert",
+  "sha256": "3527cbec052a27056150a1222ec57f0a5455f88cafdc06681dbe09784c23610c",
+  "sig": "+yiO2CHhlmdw0Jq1QL7wAFN/cByphZb7SM2M9I30H1CQ0vR0laFJJ5XztHOwU4clS98FM0AFupQbre2Py9vACA==",
+  "size": 17697915
 }
