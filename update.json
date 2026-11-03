@@ -1,8 +1,8 @@
 {
-  "build": 11,
-  "name": "game-11.bin",
-  "notes": "Abhören: Knattern behoben, weicheres und klareres Atemgeräusch",
-  "sha256": "b59a8dc7d43a63a0b73981486e5b5197cb837ad5a02fbf6f14826ec1c9a5f804",
-  "sig": "Wq72w6aGsgobTHioBWimKVd47nlAT3TnwHv5Ovl7k8IY1bveifhqbBHAGycEih29YdJFnNF7DoZiB2Sfz1+fBQ==",
-  "size": 17586080
+  "build": 12,
+  "name": "game-12.bin",
+  "notes": "Abhören mit freiem Oberkörper: Knattern behoben",
+  "sha256": "da81624809e66b410fd6942d8da1e28696b409d3feae5164cfab1ab364ea41a0",
+  "sig": "jmENE6biblLqs7xQveruz4DG+bZrVBMczaDYOwlOHKE++G/g8i5WXfyV+y5lm9JoVzo462eqT1nrA3mR6Yy0BA==",
+  "size": 17586103
 }
