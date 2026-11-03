@@ -1,8 +1,8 @@
 {
-  "build": 14,
-  "name": "game-14.bin",
-  "notes": "Schocklage: Lagerungskeil liegt jetzt passend unter den angehobenen Beinen",
-  "sha256": "eab817f429f30cc43b9cfb30c897fcd37a16e8b986412b0aac8e0269f8a1da90",
-  "sig": "K8reuoGm01QgaenYik2gF+CuVgvCfoJYeyMeWuH/a4CKamGQCHJtbRiZH6H46ZLszns2Loofs1B99MlK0ZzoCw==",
-  "size": 17590326
+  "build": 15,
+  "name": "game-15.bin",
+  "notes": "Sauerstoffmasken neu modelliert (Maske, Reservoir, Vernebler); Nasenbrille: Schlauch läuft hinter dem Kopf; Nasenklemme sitzt außen auf der Nase; Kollege hält beim Sitzen das Einsatz-Tablet und dokumentiert",
+  "sha256": "334cb8f49b0e4d15583272580a8b2baa07cbe3163ed2ebf91754011f7523d8af",
+  "sig": "iVujtgCcEsgGUUBcoAYvrypFJbEoCO2/LJYy/01lQMphiv+CDlqHWOLa631MOVSxKk54eh0bclYHqQ0KdRKVDQ==",
+  "size": 17588418
 }
