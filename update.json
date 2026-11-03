@@ -1,8 +1,8 @@
 {
-  "build": 12,
-  "name": "game-12.bin",
-  "notes": "Abhören mit freiem Oberkörper: Knattern behoben",
-  "sha256": "da81624809e66b410fd6942d8da1e28696b409d3feae5164cfab1ab364ea41a0",
-  "sig": "jmENE6biblLqs7xQveruz4DG+bZrVBMczaDYOwlOHKE++G/g8i5WXfyV+y5lm9JoVzo462eqT1nrA3mR6Yy0BA==",
-  "size": 17586103
+  "build": 13,
+  "name": "game-13.bin",
+  "notes": "Neue sichtbare Befunde: Zungenbiss, Shunt rechts, Port und Kachexie beim Palliativpatienten, Fentanylpflaster sichtbar, AED-Pads im Fitnessstudio, Tremor; Rückmeldungen oben links größer und auffälliger",
+  "sha256": "c67da6e6a848b2b3afd23df94730d431126df61b56d4907a211c7d52356a5d93",
+  "sig": "CN8zP3e8ehlgAfsJnYFFhuHp/fElEkksvYc0yAGf9Hg6W8BP20zRrnRWqQaykZk3D3JEAyn9uda8B23/9PejDA==",
+  "size": 17588819
 }
