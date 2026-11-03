@@ -1,8 +1,8 @@
 {
-  "build": 16,
-  "name": "game-16.bin",
-  "notes": "Beckenschlinge neu: liegt jetzt als Band eng um das Becken und folgt der Körperform, statt durch den Körper zu gehen; Beckenschlinge mit Klettverschluss vorn; Thoraxkompressionsgerät sitzt fest um den Brustkorb (an der sichtbaren Körperform vermessen), der Stempel liegt auf dem Brustbein und drückt den Brustkorb wirklich ein statt in der Luft zu pumpen; Kolbenstange reicht beim Drücken nicht mehr aus dem Gehäuse; Rückenplatte des Thoraxkompressionsgeräts liegt direkt unter dem Rücken; Spineboard liegt jetzt auf der Trage statt darin versunken; Patient liegt auf dem Spineboard und nicht mehr halb darin; Gurte des Spineboards laufen über den Körper und werden laufend an die Lage angepasst; Halskrause komplett neu modelliert: vorn höher mit Kinnstütze, hinten flacher, weiche Polsterkanten, Trachealöffnung und Klettverschluss; Halskrause wird an den Hals des Patienten angepasst (Erwachsene und Kinder); Erbrochenes ist jetzt flüssig: Rinnsal aus dem Mundwinkel über die Wange und glänzende Lache mit Brocken auf dem Kissen; beim Absaugen wird nur der Mund leer, die Lache bleibt liegen; Magensonde: Ablaufbeutel hängt am Seitengitter der Trage, mit Skala und Ablasshahn; Schlauch der Magensonde läuft vom Gesicht über das Kissen und am Matratzenrand entlang zum Beutel; beim Wechsel zwischen nasaler und oraler Magensonde bleibt keine alte Sonde mehr sichtbar",
-  "sha256": "ea0077253ab11c1eecbbcbf5ca985ffefc69f7e48f4c923d6187bc3b9b38fbb0",
-  "sig": "3N/V+Lf9c67fvPcW99zK9W61zr8ATq3cfz9Az2fxoOSag46hriS+oiqSiwybX5Wi0vwybSNWkesTbDFN55ytBg==",
-  "size": 17590524
+  "build": 17,
+  "name": "game-17.bin",
+  "notes": "Neu: Einsteiger-Tutorial für alle ohne medizinisches Vorwissen, ein kurzer geführter Einsatz mit einer Patientin mit Übelkeit; Das Tutorial erklärt Schritt für Schritt Laufen, Zielen und Klicken, das Ansprechen, den Monitor, Sättigung, EKG anschließen, Blutdruck messen, Werte lesen, Venenzugang, wo die Medikamente im Ampullarium liegen und wie man ein Medikament gibt; Beim ersten Spielstart wird das Tutorial automatisch angeboten (auch überspringbar); Im Hauptmenü gibt es dafür den neuen Knopf Einsteiger-Tutorial; In der Ausbildung ist das Tutorial jetzt die erste Lektion Schnelleinstieg für Neulinge; Neuer Einsatz: Fingerkuppenamputation beim Schnitzelschneiden mit dem Küchenmesser; Die Kuppe des linken Zeigefingers fehlt sichtbar, mit blutiger Schnittfläche und Knochen im Stumpf, die Blutung kommt genau aus dem Stumpf; Bewertung im neuen Einsatz: Druckverband, kein Tourniquet, Amputat sichern, pDMS, Anamnese mit Tetanusschutz und Voranmeldung Handchirurgie oder Notaufnahme",
+  "sha256": "0c71a70f106a9b3eba71d1be5320aa7bedddbef1b52c02fcc1017f2218736e68",
+  "sig": "IzyYYxbn75ThAjL9pbJhUr1uZ74EYP9xSRG5m16q8FlGOwpBCjVolPB5oip9X+nIjEjc8MDYhgl5CsU4mWjSAQ==",
+  "size": 17595421
 }
