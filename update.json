@@ -1,8 +1,8 @@
 {
-  "build": 10,
-  "name": "game-10.bin",
-  "notes": "Abhören klingt wieder wie in den ersten Versionen",
-  "sha256": "4846c1d00fb89bb79dc2835520bfe752a4b3b757ade74705db2008149642bd27",
-  "sig": "nu5+yatOnBud3I/rmp0GLEDwSPNAnRH9SB96tVwp0Bjt7LSxIl+j2Out9RRjGymiF/z6jHymNzJ9kNq6E3bPDw==",
-  "size": 17586963
+  "build": 11,
+  "name": "game-11.bin",
+  "notes": "Abhören: Knattern behoben, weicheres und klareres Atemgeräusch",
+  "sha256": "b59a8dc7d43a63a0b73981486e5b5197cb837ad5a02fbf6f14826ec1c9a5f804",
+  "sig": "Wq72w6aGsgobTHioBWimKVd47nlAT3TnwHv5Ovl7k8IY1bveifhqbBHAGycEih29YdJFnNF7DoZiB2Sfz1+fBQ==",
+  "size": 17586080
 }
