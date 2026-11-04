@@ -1,8 +1,8 @@
 {
-  "build": 22,
-  "name": "game-22.bin",
-  "notes": "Sauerstoffschlauch am Beatmungsbeutel endet nicht mehr in der Luft, sondern ist am grünen Auslass des Druckminderers der Sauerstoffflasche angeschlossen; Gilt genauso für die Schläuche von Sauerstoffmaske, Nasenbrille und Vernebler",
-  "sha256": "a0002c9776bc6d50ab9f58a1be224d2719920b70a0055c52f084c66434b8c47c",
-  "sig": "2eB2lpYo76okoBjgkoU5BzJBhXvChkYo3gYcoBzCU5hmwk8emA0Q/fWo5eWAuJDnz0hIqU9HSwqEdYG5JvX5BQ==",
-  "size": 17699061
+  "build": 23,
+  "name": "game-23.bin",
+  "notes": "12-Kanal-EKG: die Brustwandelektrode V5 schwebte bei manchen Patientinnen in der Luft, sie klebt jetzt immer auf der Haut (an 8 verschiedenen Patienten geprüft); Elektroden suchen sich bei Hautfalten oder Brustansatz automatisch die nächste passende Klebestelle; EKG-, Pad-, SpO₂- und Blutdruckkabel laufen nicht mehr durch Matratze, Seitengitter oder Rahmen der Trage, sondern über die Polsterkante bzw. über das hochgeklappte Seitengitter und hängen dann frei außen zum Monitor; Blutdruckmanschette kommt jetzt an den Arm, den man angeklickt hat (links oder rechts); Liegt die Manschette schon am anderen Arm, wird sie umgesetzt statt abgenommen",
+  "sha256": "d150f67f948bda7182cca77070c637420eabb2899af1aa01fb4cbc7534cbee24",
+  "sig": "+cWZYuCUUo1nZ3fiFXgPIf2pjJQsI3L7B3qUfa7IqhVljY9JguEu3RyvXOzhTIT6kzmC1HeXGTox0sm6EuORAA==",
+  "size": 17699629
 }
