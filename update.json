@@ -1,8 +1,8 @@
 {
-  "build": 27,
-  "name": "game-27.bin",
-  "notes": "Webspiel: Spielerprofile und Einsatzverlauf werden im Spielerkonto auf dem Server gespeichert statt im Browser; Webspiel: Profilauswahl zeigt im Browser jetzt 'Gespeichert in deinem Konto'",
-  "sha256": "4c0d606fc070d51871e3d4c10fab0b7e182df784c50088138790274f13e76981",
-  "sig": "Tm9BkL+1xdbCYwrBHD2Li16tch7Pex0w0twROiC1g4A/OIRGMTA/PIZ/a9BBb4Wtqtk/HGSYNvmcygBvVrDoCg==",
-  "size": 17704733
+  "build": 28,
+  "name": "game-28.bin",
+  "notes": "Webspiel: Mehrspieler (Test) im Hauptmenü, eigenen Einsatz für Mitspieler öffnen oder offenen Einsätzen beitreten; Webspiel: alle arbeiten am selben Patienten, Maßnahmen und Protokoll werden abgeglichen; Webspiel: Mitspieler sind als Figur mit Namensschild im RTW zu sehen; Webspiel: Text-Chat im Einsatz mit Enter; Webspiel: Gastgeber kann im Pausenmenü Mitspieler zulassen oder ausschließen; Webspiel: Trainermodus mit eigenem Trainer-Key (unter Konto freischalten); Trainer: Liste aller laufenden Einsätze mit Diagnose und Live-Werten; Trainer: unsichtbar zuschauen und mit T die Trainer-Steuerung öffnen; Trainer: HF, RR, SpO2, AF, etCO2, BZ, Temperatur und GCS festsetzen und wieder freigeben; Trainer: Rhythmus setzen und Ereignisse auslösen (Kammerflimmern, pulslose VT, Asystolie, PEA, ROSC, Krampfanfall, Anaphylaxie, Spannungspneu, Blutung, Hypoglykämie, STEMI, Schmerzen); Trainer: Nachrichten an das Team; Trainer-Eingriffe stehen im Einsatzprotokoll",
+  "sha256": "05fc4d47b97db9706e709c3816e6e2f6c8c87a0a244160bb205943e49be5f5f9",
+  "sig": "ncJ3PGyr2QDVbzzGDd5DCBvvJyfbTj/tfPF3A+h9M8LKlJNvKMmvfeb5TcX5AYOjgaixysRXVUL3vujQEbQLBw==",
+  "size": 17722462
 }
