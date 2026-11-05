@@ -1,8 +1,8 @@
 {
-  "build": 28,
-  "name": "game-28.bin",
-  "notes": "Webspiel: Mehrspieler (Test) im Hauptmenü, eigenen Einsatz für Mitspieler öffnen oder offenen Einsätzen beitreten; Webspiel: alle arbeiten am selben Patienten, Maßnahmen und Protokoll werden abgeglichen; Webspiel: Mitspieler sind als Figur mit Namensschild im RTW zu sehen; Webspiel: Text-Chat im Einsatz mit Enter; Webspiel: Gastgeber kann im Pausenmenü Mitspieler zulassen oder ausschließen; Webspiel: Trainermodus mit eigenem Trainer-Key (unter Konto freischalten); Trainer: Liste aller laufenden Einsätze mit Diagnose und Live-Werten; Trainer: unsichtbar zuschauen und mit T die Trainer-Steuerung öffnen; Trainer: HF, RR, SpO2, AF, etCO2, BZ, Temperatur und GCS festsetzen und wieder freigeben; Trainer: Rhythmus setzen und Ereignisse auslösen (Kammerflimmern, pulslose VT, Asystolie, PEA, ROSC, Krampfanfall, Anaphylaxie, Spannungspneu, Blutung, Hypoglykämie, STEMI, Schmerzen); Trainer: Nachrichten an das Team; Trainer-Eingriffe stehen im Einsatzprotokoll",
-  "sha256": "05fc4d47b97db9706e709c3816e6e2f6c8c87a0a244160bb205943e49be5f5f9",
-  "sig": "ncJ3PGyr2QDVbzzGDd5DCBvvJyfbTj/tfPF3A+h9M8LKlJNvKMmvfeb5TcX5AYOjgaixysRXVUL3vujQEbQLBw==",
-  "size": 17722462
+  "build": 29,
+  "name": "game-29.bin",
+  "notes": "Mehrspieler: Handgriffe von Mitspielern gingen manchmal verloren (z. B. Kleidung beim einen aus, beim anderen noch an), behoben; Mehrspieler: Simulationszeit läuft bei Mitspielern gleichmäßig, Monitor-Kurven und Animationen ruckeln nicht mehr; Mehrspieler: Personenliste im Einsatz wird nicht mehr in jedem Bild neu gezeichnet (weniger Ruckeln); Mehrspieler: Spritzen- und Infusionslisten werden nur noch bei Änderungen neu gezeichnet; Mehrspieler: Simulation des Gastgebers läuft in Echtzeit weiter, auch wenn sein Fenster im Hintergrund ist; Mehrspieler: Liste der offenen Einsätze springt nicht mehr, Klicks auf Beitreten kommen sicher an",
+  "sha256": "c5075b17762b24a3d941b22fd472537eee2d5a2831a5644a55580f42a2c012b4",
+  "sig": "zbmGafZiQfdkgjW5XWC/R5/3qhEs+MUUCYAuSw5zqq8drQcGEcHRqYA8EZ/nG3+kp/YqyQY+eBZ/cpKYvlnfAg==",
+  "size": 17724066
 }
