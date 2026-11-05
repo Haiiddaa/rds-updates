@@ -1,8 +1,8 @@
 {
-  "build": 24,
-  "name": "game-24.bin",
-  "notes": "Einsatz-Tablet: SOP-Liste ist jetzt alphabetisch sortiert;Einsatz-Tablet: Neues Suchfeld über der SOP-Liste, sucht nach Titel, Art (SAA, BPR) und Indikation, z. B. „SAA“ zeigt alle SAA;Einsatz-Tablet: Suchbegriff bleibt beim Wechsel zwischen SOPs erhalten, „Keine SOP gefunden“ bei leerem Ergebnis;Einsatz-Tablet: Neuer Eintrag „NACA-Score (Schweregrad)“ mit Erklärung aller Stufen NACA 0 bis VII;Englische Übersetzung für Suchfeld und NACA-Score ergänzt",
-  "sha256": "cee08682142ff3d6fa144c5ee3e9ba46a0d5b7b046ab9761366bf68d2fe95394",
-  "sig": "Ac61nw3ScgmJvl2A0izYc2ffT78yrNm+Ct/LzDO17QsVKMD0VDwfB6tgK+u3TNTzln0I3p6afaCAlBhul+S8Bw==",
-  "size": 17701670
+  "build": 25,
+  "name": "game-25.bin",
+  "notes": "Notarzt: Bei Alarmierung „RTW + NEF“ fährt das NEF jetzt automatisch parallel an (Ankunft nach ca. 2–7 min), ohne dass man nachfordern muss;Funkgerät: Ist das NEF schon unterwegs, heißt der Eintrag „NEF: Eintreffzeit erfragen“ statt „Notarzt nachfordern“, nach Eintreffen verschwindet er;Bewertung: „Notarzt früh informiert“ (Epiglottitis) zählt auch, wenn die Leitstelle das NEF parallel alarmiert hat;Kompetenzhinweis RS und Tipps erkennen das parallel alarmierte NEF;Infusionen: Bei mehreren Zugängen lässt sich beim Anhängen auswählen, über welchen Zugang die Infusion läuft;Infusionen: Laufende Infusionen können auf einen anderen Zugang umgesteckt werden, Eintrag im Protokoll;Infusionen: Durchfluss richtet sich nach der Größe des gewählten Zugangs (z. B. 20G langsamer als 14G);3D: Infusionsleitungen führen zum gewählten Zugang, Dreiwegehahn-Bank nur an Zugängen mit mehreren Infusionen;Zugänge werden in den Listen mit Körperseite angezeigt (links/rechts);Alle 174 Einsätze automatisch auf Widersprüche zwischen Alarmtext und Startzustand geprüft (Reanimation, Puls, AED)",
+  "sha256": "678293a868bd7896844adf23018ce102b671c6dfa29f8c7c6bc8b3e797419229",
+  "sig": "TDsXEkl2FNO7SODnBroOtzvwJbJo0KJaOky7kbCY0ZTULy2weismFCSt7Poz/aC9FaYwba0HxWsh5f/riK1cCw==",
+  "size": 17702591
 }
