@@ -1,8 +1,8 @@
 {
-  "build": 25,
-  "name": "game-25.bin",
-  "notes": "Notarzt: Bei Alarmierung „RTW + NEF“ fährt das NEF jetzt automatisch parallel an (Ankunft nach ca. 2–7 min), ohne dass man nachfordern muss;Funkgerät: Ist das NEF schon unterwegs, heißt der Eintrag „NEF: Eintreffzeit erfragen“ statt „Notarzt nachfordern“, nach Eintreffen verschwindet er;Bewertung: „Notarzt früh informiert“ (Epiglottitis) zählt auch, wenn die Leitstelle das NEF parallel alarmiert hat;Kompetenzhinweis RS und Tipps erkennen das parallel alarmierte NEF;Infusionen: Bei mehreren Zugängen lässt sich beim Anhängen auswählen, über welchen Zugang die Infusion läuft;Infusionen: Laufende Infusionen können auf einen anderen Zugang umgesteckt werden, Eintrag im Protokoll;Infusionen: Durchfluss richtet sich nach der Größe des gewählten Zugangs (z. B. 20G langsamer als 14G);3D: Infusionsleitungen führen zum gewählten Zugang, Dreiwegehahn-Bank nur an Zugängen mit mehreren Infusionen;Zugänge werden in den Listen mit Körperseite angezeigt (links/rechts);Alle 174 Einsätze automatisch auf Widersprüche zwischen Alarmtext und Startzustand geprüft (Reanimation, Puls, AED)",
-  "sha256": "678293a868bd7896844adf23018ce102b671c6dfa29f8c7c6bc8b3e797419229",
-  "sig": "TDsXEkl2FNO7SODnBroOtzvwJbJo0KJaOky7kbCY0ZTULy2weismFCSt7Poz/aC9FaYwba0HxWsh5f/riK1cCw==",
-  "size": 17702591
+  "build": 26,
+  "name": "game-26.bin",
+  "notes": "Minithorakotomie neu modelliert: Hautschnitt entlang der Rippe im 4./5. ICR vordere Axillarlinie, klaffende Wundränder, Blutspur;Thoraxdrainage neu modelliert: klarer Schlauch mit Röntgenkontraststreifen und Tiefenmarken, Annaht mit Haltefaden, Schlitzkompresse und Pflasterzügel, Heimlich-Ventil;Sekretbeutel der Thoraxdrainage mit Skala und Inhalt hängt seitlich an der Trage, Schlauch läuft vom Ventil zum Beutel;Arm der betroffenen Seite bleibt bei Minithorakotomie/Drainage abgespreizt, damit die Stelle sichtbar ist;Vakuummatratze neu modelliert: angeformte Seitenwülste, hochgezogene Enden, Kammernähte, Tragegriffe, Absaugventil;Vakuummatratze ist jetzt auch am Rumpf (Thorax-Menü) auswählbar, nicht nur an den Beinen;Spineboard und Vakuummatratze: Gurte werden nach jedem Neulegen der Rettungsdecke neu gespannt und liegen über der Folie statt durch sie hindurch;Hocken: STRG gedrückt halten zum Hocken, kein Auf-und-ab-Springen mehr beim Halten; C schaltet weiterhin um;Einsatzbewertung Erstbefund: Nicht nur der allererste Messwert zählt, jeder in den ersten 10 Minuten gemessene Wert (mit Toleranz) gilt als richtig dokumentiert, gilt für HF, RR, SpO2, etCO2, BZ und GCS",
+  "sha256": "6b746e652fbed5d83c5811d2d839e0d9c86983f25da2daf3207178c87f8eada0",
+  "sig": "t4NAlWO/BM8OXDIgKmnil43+7xivqy4YGoTgEcxhlIahWuyK0pFejBe57dehZUy/F8Krrielu8bZnFnkzve0CQ==",
+  "size": 17704692
 }
