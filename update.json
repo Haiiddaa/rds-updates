@@ -1,8 +1,8 @@
 {
-  "build": 26,
-  "name": "game-26.bin",
-  "notes": "Minithorakotomie neu modelliert: Hautschnitt entlang der Rippe im 4./5. ICR vordere Axillarlinie, klaffende Wundränder, Blutspur;Thoraxdrainage neu modelliert: klarer Schlauch mit Röntgenkontraststreifen und Tiefenmarken, Annaht mit Haltefaden, Schlitzkompresse und Pflasterzügel, Heimlich-Ventil;Sekretbeutel der Thoraxdrainage mit Skala und Inhalt hängt seitlich an der Trage, Schlauch läuft vom Ventil zum Beutel;Arm der betroffenen Seite bleibt bei Minithorakotomie/Drainage abgespreizt, damit die Stelle sichtbar ist;Vakuummatratze neu modelliert: angeformte Seitenwülste, hochgezogene Enden, Kammernähte, Tragegriffe, Absaugventil;Vakuummatratze ist jetzt auch am Rumpf (Thorax-Menü) auswählbar, nicht nur an den Beinen;Spineboard und Vakuummatratze: Gurte werden nach jedem Neulegen der Rettungsdecke neu gespannt und liegen über der Folie statt durch sie hindurch;Hocken: STRG gedrückt halten zum Hocken, kein Auf-und-ab-Springen mehr beim Halten; C schaltet weiterhin um;Einsatzbewertung Erstbefund: Nicht nur der allererste Messwert zählt, jeder in den ersten 10 Minuten gemessene Wert (mit Toleranz) gilt als richtig dokumentiert, gilt für HF, RR, SpO2, etCO2, BZ und GCS",
-  "sha256": "6b746e652fbed5d83c5811d2d839e0d9c86983f25da2daf3207178c87f8eada0",
-  "sig": "t4NAlWO/BM8OXDIgKmnil43+7xivqy4YGoTgEcxhlIahWuyK0pFejBe57dehZUy/F8Krrielu8bZnFnkzve0CQ==",
-  "size": 17704692
+  "build": 27,
+  "name": "game-27.bin",
+  "notes": "Webspiel: Spielerprofile und Einsatzverlauf werden im Spielerkonto auf dem Server gespeichert statt im Browser; Webspiel: Profilauswahl zeigt im Browser jetzt 'Gespeichert in deinem Konto'",
+  "sha256": "4c0d606fc070d51871e3d4c10fab0b7e182df784c50088138790274f13e76981",
+  "sig": "Tm9BkL+1xdbCYwrBHD2Li16tch7Pex0w0twROiC1g4A/OIRGMTA/PIZ/a9BBb4Wtqtk/HGSYNvmcygBvVrDoCg==",
+  "size": 17704733
 }
