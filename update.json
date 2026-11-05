@@ -1,8 +1,8 @@
 {
-  "build": 29,
-  "name": "game-29.bin",
-  "notes": "Mehrspieler: Handgriffe von Mitspielern gingen manchmal verloren (z. B. Kleidung beim einen aus, beim anderen noch an), behoben; Mehrspieler: Simulationszeit läuft bei Mitspielern gleichmäßig, Monitor-Kurven und Animationen ruckeln nicht mehr; Mehrspieler: Personenliste im Einsatz wird nicht mehr in jedem Bild neu gezeichnet (weniger Ruckeln); Mehrspieler: Spritzen- und Infusionslisten werden nur noch bei Änderungen neu gezeichnet; Mehrspieler: Simulation des Gastgebers läuft in Echtzeit weiter, auch wenn sein Fenster im Hintergrund ist; Mehrspieler: Liste der offenen Einsätze springt nicht mehr, Klicks auf Beitreten kommen sicher an",
-  "sha256": "c5075b17762b24a3d941b22fd472537eee2d5a2831a5644a55580f42a2c012b4",
-  "sig": "zbmGafZiQfdkgjW5XWC/R5/3qhEs+MUUCYAuSw5zqq8drQcGEcHRqYA8EZ/nG3+kp/YqyQY+eBZ/cpKYvlnfAg==",
-  "size": 17724066
+  "build": 30,
+  "name": "game-30.bin",
+  "notes": "Aortendissektion: Blutdruck am linken Arm ist jetzt wirklich niedriger als rechts, je nachdem an welchem Arm die Manschette angelegt ist; Aortendissektion: Befundtext nennt keine festen Blutdruckwerte mehr, die nicht zur Messung passten, sondern weist auf die Messung an beiden Armen hin; Messerstich Oberbauch: Auswertung empfiehlt nicht mehr Akutes Abdomen, sondern Blutung / hämorrhagischer Schock; Neue Verdachtsdiagnose Abdominaltrauma (stumpf / penetrierend), wird beim Messerstich ebenfalls als richtig gewertet; Rettungsdecke: hochgestreckte Arme spannen die Decke nicht mehr wie ein Zelt auf, die Arme ragen heraus und die Decke bleibt auf dem Körper liegen; Rettungsdecke: Ausrüstung an hochgehobenen Armen (Manschette, Clip) hebt die Decke nicht mehr an; Ohrthermometer neu gestaltet: Messspitze, Kopfteil und Griff hängen zusammen, kein loser Balken mehr neben dem Kopf; Ohrthermometer sitzt am tatsächlichen Ohr des jeweiligen Patienten; Ohrthermometer zeigt den Messwert in °C auf dem Display; Webspiel und Hauptspiel auf demselben Stand",
+  "sha256": "a8a3a972ffdf8f79aea2c7c79237dad815788ec626ed977af0508b3d0ab11140",
+  "sig": "sH+t9bP1y4A2V+OYDjrsUEifdelURqNlmlqH3hueMXQtcz1Fy1iMaPJ5us8ILrshAvwYZQGJioayUDK5R1ESBA==",
+  "size": 17723606
 }
