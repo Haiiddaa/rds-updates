@@ -1,8 +1,8 @@
 {
-  "build": 33,
-  "name": "game-33.bin",
-  "notes": "Fentanylpflaster: Nach dem Entfernen gibt das Hautdepot realistisch weiter Wirkstoff ab (Spiegel halbiert sich erst nach ca. 17 h), Entfernen bleibt trotzdem Prüfpunkt",
-  "sha256": "429c1c7d62f4d5278efc09e69e529e1986aff7ed89b843af7f124285dedfd5af",
-  "sig": "KlCnU1vpxbjNscM7Kwy6vagmdqqMIn8b+qMuXIDOSJBRUCIdrrIC42HbK6C1MZIJH54Ul7irwima8SVYrCnWCQ==",
-  "size": 17724823
+  "build": 34,
+  "name": "game-34.bin",
+  "notes": "Kleidung: Wache, kooperative Patienten (GCS ≥ 14) können Oberteil und Hose selbst ausziehen (Menü am Oberkörper bzw. an den Beinen: „… ausziehen lassen (Patient hilft)“), Schuhe werden dabei mit ausgezogen; Warnung bei Traumaverdacht bzw. Beinfraktur (dann aufschneiden), Unterwäsche bleibt immer an; Hinweis „Patient ist bekleidet“ nennt bei wachen Patienten jetzt auch das Ausziehenlassen",
+  "sha256": "1f467856da7d20bd1b33087ea8046f4c88d4634d0d50ab975fe39b0135201472",
+  "sig": "qbuimxUH9UDNom/at6PbIwD02sjoT7S6BkxLfhR5B34Ll8XrWjXdAgqhjvZ/K7HxBbsR5TpZqNktKvJyoDn9BQ==",
+  "size": 17725761
 }
