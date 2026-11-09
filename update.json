@@ -1,8 +1,8 @@
 {
-  "build": 34,
-  "name": "game-34.bin",
-  "notes": "Kleidung: Wache, kooperative Patienten (GCS ≥ 14) können Oberteil und Hose selbst ausziehen (Menü am Oberkörper bzw. an den Beinen: „… ausziehen lassen (Patient hilft)“), Schuhe werden dabei mit ausgezogen; Warnung bei Traumaverdacht bzw. Beinfraktur (dann aufschneiden), Unterwäsche bleibt immer an; Hinweis „Patient ist bekleidet“ nennt bei wachen Patienten jetzt auch das Ausziehenlassen",
-  "sha256": "1f467856da7d20bd1b33087ea8046f4c88d4634d0d50ab975fe39b0135201472",
-  "sig": "qbuimxUH9UDNom/at6PbIwD02sjoT7S6BkxLfhR5B34Ll8XrWjXdAgqhjvZ/K7HxBbsR5TpZqNktKvJyoDn9BQ==",
-  "size": 17725761
+  "build": 35,
+  "name": "game-35.bin",
+  "notes": "Blutzucker messen als Minispiel: Finger wählen (Hinweis: Mittel-/Ringfinger), mit Alkoholtupfer wischen und abtrocknen lassen, mit der Stechhilfe seitlich an der Fingerbeere stechen, ersten Tropfen abwischen, Tropfen durch sanftes Ausstreichen gewinnen, Teststreifen ansetzen, Wert ablesen; Fehler mit Folgen: in feuchten Alkohol stechen oder Finger stark melken verfälscht den Wert nach unten, im Schock/bei Kälte kommt kaum Blut und kapillär ist unzuverlässig, zu wenig Blut gibt Gerätefehler, Stich mitten in die Beere ist schmerzhafter; Blutzuckermessgerät im 3D neu gestaltet (abgerundet, Tasten, Teststreifen mit Blut) und zeigt den gemessenen Wert im Display; Minispiele (Venenzugang, i.o., Blutzucker) lassen sich jetzt auch per Touch auf dem iPad bedienen",
+  "sha256": "e7c8a2c9cd9b61eb08c5310e812d63674d6deb2a2522710b8bcbbb8668913f0f",
+  "sig": "dKP6Ia7b6wshS3lehxNfSC1z8z2HAgIvD1FWSbMv2iLwvV7NmcYmNhdxOIxHpt7RxQ1UU34QhLqDPSIga3UKAg==",
+  "size": 17732608
 }
