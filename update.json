@@ -1,8 +1,8 @@
 {
-  "build": 32,
-  "name": "game-32.bin",
-  "notes": "Reanimation: Ohne Beatmung und ohne Adrenalin gibt es unter Herzdruckmassage keinen ROSC mehr (vorher kleine Restchance); Neue Maßnahme am Oberkörper: Schmerzpflaster entfernen (Fentanylpflaster-Einsatz; Oberkörper muss frei sein, danach sinkt der Wirkspiegel langsam, neuer Prüfpunkt „Fentanylpflaster entfernt“); Neue Maßnahme am Oberkörper: Pads des Laien-AED entfernen (Einsätze, in denen Ersthelfer einen AED angelegt haben)",
-  "sha256": "de8788a10e447d3d035d8b372a9fe4d919f424caa9a7a26a8213898df35aa643",
-  "sig": "7CUM81S1nP9LdkeNgo71fNifCEhRnmliZ6yQpf2eGWEv0+VAZ0vRuYylYop5IBdkrohX7tU39dwJH3v7RAdaBA==",
-  "size": 17724818
+  "build": 33,
+  "name": "game-33.bin",
+  "notes": "Fentanylpflaster: Nach dem Entfernen gibt das Hautdepot realistisch weiter Wirkstoff ab (Spiegel halbiert sich erst nach ca. 17 h), Entfernen bleibt trotzdem Prüfpunkt",
+  "sha256": "429c1c7d62f4d5278efc09e69e529e1986aff7ed89b843af7f124285dedfd5af",
+  "sig": "KlCnU1vpxbjNscM7Kwy6vagmdqqMIn8b+qMuXIDOSJBRUCIdrrIC42HbK6C1MZIJH54Ul7irwima8SVYrCnWCQ==",
+  "size": 17724823
 }
