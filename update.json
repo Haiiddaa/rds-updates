@@ -1,8 +1,8 @@
 {
-  "build": 46,
-  "name": "game-46.bin",
-  "notes": "Tablet: nach rechts wischen schaut jetzt nach rechts, nach oben wischen nach oben (Umsehen war vorher umgekehrt); Tablet: Umsehen auch mit Maus oder Trackpad am iPad (Klick fängt die Maus ein, sonst mit gedrückter Taste ziehen, kurzer Klick benutzt); Larynxtubus: Einlegen dauert jetzt 12 s statt 15 s; Larynxmaske (i-gel): Einlegen dauert jetzt 8 s statt 10 s; Zeit: Einsatzzeit und Handgriffe laufen auch bei wenigen Bildern pro Sekunde (Tablet, schwache Grafik) in Echtzeit statt verlangsamt",
-  "sha256": "83be7868a2700120ccf446e2dcbb06dde7c812557faa2c6bfe41820f1d588292",
-  "sig": "ncAkcLMGYE/y0ZXThtLli8CN/aotFXeraBxprHI4y4g0OhCFUkGJcfXqQQ8N7lfFBFg3DKiO2nNvCLB7GYl5Aw==",
-  "size": 17819804
+  "build": 47,
+  "name": "game-47.bin",
+  "notes": "Kleidung: Haut am Hals sticht nicht mehr zackig durch den Kragen, wenn der Kopf gedreht oder überstreckt ist",
+  "sha256": "e8378eccb20cf93df131eeac23ecdf959078ee0857d11892f5f5123198772b57",
+  "sig": "lr8xA5k5I7+BVAJOCgK10ZwOGfTzBt6Phk4Yg8VMnOMW8Z3a8kLVHuA4eamNIDGlye1gozKB0w2daXhR2sy+Ag==",
+  "size": 17819435
 }
