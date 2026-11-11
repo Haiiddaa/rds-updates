@@ -1,8 +1,8 @@
 {
-  "build": 41,
-  "name": "game-41.bin",
-  "notes": "Bei ROSC hört die Herzdruckmassage automatisch auf (auch das Thoraxkompressionsgerät), mit Protokolleintrag Puls tastbar;Kollege beendet seine Herzdruckmassage bei ROSC ebenfalls und sagt Bescheid;Monitor: neue Taste Analyse (Rhythmusanalyse über Pads oder EKG-Kabel);Bei der Analyse wird die Herzdruckmassage etwa 5 Sekunden unterbrochen, Anzeige Analyse läuft, Patient nicht berühren;Nach der Analyse: Schock empfohlen (Defi lädt automatisch) oder kein Schock empfohlen, danach wird automatisch weiter gedrückt;Bei Spontankreislauf zeigt die Analyse kein Schock empfohlen, Puls prüfen;Kollege bleibt während der Analysepause mit den Händen am Thorax und drückt danach weiter;Herzdruckmassage durch den Kollegen: keine doppelten Helferhände mehr in der Ansicht",
-  "sha256": "11484fa0ef14df13eea6676a9e158c905044f87bf7503f974e04f11a7c674362",
-  "sig": "mI3yPj1z9ilZttQaVJIpJKdHjHF5bcFunqUNSRE5CoCEnpoA/3NdIEkCiiW3P7PuD6usuGeUddFaoj2v6ug2DA==",
-  "size": 17807621
+  "build": 42,
+  "name": "game-42.bin",
+  "notes": "Tubusfixierung neu: Band läuft sichtbar über Oberlippe und Wangen und umschlingt den Tubus, Pflaster auf beiden Wangen (statt Band neben dem Ohr); Beatmungsbeutel zeigt am Tubus und an der Maske zur Seite weg, nicht mehr in den Kopf oder Arm des Kollegen; Kollege beatmet mit der linken Hand am Beutel und hält mit der rechten Tubus bzw. Maske (C-Griff); Kollege steht beim Beatmen etwas weiter vom Kopf weg; Beatmungsschlauch zum Beatmungsgerät läuft flach zur linken Patientenseite und am Matratzenrand entlang statt im Bogen über den Kopf; Faltenschlauch mit feinen, gleichmäßigen Rillen statt welliger Optik; O₂-Schlauch am Beutel läuft an der Trage entlang zum Anschluss statt durch den Helfer; Gegebene Medikamente werden automatisch im Tablet-Protokoll eingetragen (Medikament, Dosis, Weg, Uhrzeit), Zeilen lassen sich ändern oder löschen; BE-FAST-Test ist für Rettungssanitäter wieder frei (war fälschlich gesperrt); Neue Maßnahme Notfallsonografie (eFAST) am Thorax: Lungengleiten/Pneumothorax, B-Linien, freie Flüssigkeit, Herzaktion, Rechtsherzbelastung, Volumenmangel; Notfallsonografie ist im Rettungssanitäter-Modus dem Notarzt vorbehalten",
+  "sha256": "d29faa78886020f88cb5762e1473a6be734c6886ed83ae368570b7ed1921f58a",
+  "sig": "nK/axxSZdenIj0CUxv7U3ibcnF1rV7ZDrWFlZP/tNvKxJbnFgKYzUduwozenbry8A4OC9fV1mtHiBEz7XuGVCQ==",
+  "size": 17809984
 }
