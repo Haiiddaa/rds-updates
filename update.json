@@ -1,8 +1,8 @@
 {
-  "build": 45,
-  "name": "game-45.bin",
-  "notes": "Haare: wirken nicht mehr durchsichtig (Verschattung des Kopfes schien durch die Haare)",
-  "sha256": "cb7cfe34900b78619a2b1159cbdebbad06a46b47f4845566c04f0b54e6e0fe92",
-  "sig": "CYIIa7o94HFsDO0BJ9P3q/vchUuxx9RgUh/fLC9W+kPc4f5PWebaaDRr2WMmM+DBF7wiQkkq9uRaObpS9UG0Bw==",
-  "size": 17819898
+  "build": 46,
+  "name": "game-46.bin",
+  "notes": "Tablet: nach rechts wischen schaut jetzt nach rechts, nach oben wischen nach oben (Umsehen war vorher umgekehrt); Tablet: Umsehen auch mit Maus oder Trackpad am iPad (Klick fängt die Maus ein, sonst mit gedrückter Taste ziehen, kurzer Klick benutzt); Larynxtubus: Einlegen dauert jetzt 12 s statt 15 s; Larynxmaske (i-gel): Einlegen dauert jetzt 8 s statt 10 s; Zeit: Einsatzzeit und Handgriffe laufen auch bei wenigen Bildern pro Sekunde (Tablet, schwache Grafik) in Echtzeit statt verlangsamt",
+  "sha256": "83be7868a2700120ccf446e2dcbb06dde7c812557faa2c6bfe41820f1d588292",
+  "sig": "ncAkcLMGYE/y0ZXThtLli8CN/aotFXeraBxprHI4y4g0OhCFUkGJcfXqQQ8N7lfFBFg3DKiO2nNvCLB7GYl5Aw==",
+  "size": 17819804
 }
