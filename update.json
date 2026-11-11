@@ -1,8 +1,8 @@
 {
-  "build": 43,
-  "name": "game-43.bin",
-  "notes": "Außenwelt: echte 3D-Umgebung vor den RTW-Fenstern statt flacher Tapete (Häuser, Bäume, Gehweg, Laternen, parkende Autos, Himmel); Außenwelt: jeder Einsatz sieht anders aus (Innenstadt, Wohngebiet oder Landstraße, wechselndes Wetter); Grafik: weißer Schimmer bzw. durchsichtige Hülle um Körper und Gesichter entfernt (Umgebungsverdeckung und Schatten berücksichtigen jetzt ausgeblendete Kleidung und Haare); Haare: stehen nicht mehr wie ein Visier vor dem Gesicht; Kleidung: keine spitzen Zacken mehr an Ärmeln und Kragen (weichere Verformung beim Bewegen); Kleidung: kann wieder ausgezogen werden, nicht nur aufgeschnitten; Kleidung: wacher kooperativer Patient hilft beim Ausziehen, sonst ohne Mithilfe und dauert länger; Kleidung: bei Traumaverdacht Hinweis, lieber aufzuschneiden; Tubus: liegt jetzt in der Mundöffnung statt in der Oberlippe; Tubusfixierung: Band und Schlaufe sitzen passend auf Lippen und Wangen; Was ist neu: nach einem Update erscheint beim Start ein übersichtliches Fenster mit allen Änderungen; Was ist neu: jederzeit über den Link im Hauptmenü abrufbar; Startfenster: Änderungen als Liste statt Textblock (sichtbar ab der neuen Exe); Englisch: neue Texte übersetzt",
-  "sha256": "631e18dfcd2e29c6e3a6d086ddfefa03aedfa811bf3ed9d37dd2adce12a50649",
-  "sig": "atMejy+XIRd1z/wmrJJj3HsOSUOXPH/bhapumidcIRyLpFkatFp74c9agvjrPu4jlWiQckWDNsWSXVo8JdVLBg==",
-  "size": 17821894
+  "build": 44,
+  "name": "game-44.bin",
+  "notes": "Grafik: durchscheinende zweite Jacke bzw. Kleidung in anderer Haltung über den Figuren behoben (Umgebungsverdeckung schneidet die Kleidung jetzt genauso zu wie im Bild); Grafik: weißer Schimmer an Hals und Gesicht bleibt weiterhin weg; Was ist neu: Fenster erscheint im Hauptmenü sofort vorne und nicht erst beim Einsatzstart; Was ist neu: wird beim Starten eines Einsatzes automatisch geschlossen",
+  "sha256": "ccb493f11efd9a36110f3047293d7130bd20b9471bd350e4c3133f3f3395b39c",
+  "sig": "3OMdwtMOMMMJQDpfv6qlB9T9tnpB1bKYQG/m9kKPu8I+ujM3610X+N6bSNz6LRDJJJz1FnKsNE5lTAUq+Sy6Bg==",
+  "size": 17820572
 }
