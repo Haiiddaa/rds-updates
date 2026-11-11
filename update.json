@@ -1,8 +1,8 @@
 {
-  "build": 44,
-  "name": "game-44.bin",
-  "notes": "Grafik: durchscheinende zweite Jacke bzw. Kleidung in anderer Haltung über den Figuren behoben (Umgebungsverdeckung schneidet die Kleidung jetzt genauso zu wie im Bild); Grafik: weißer Schimmer an Hals und Gesicht bleibt weiterhin weg; Was ist neu: Fenster erscheint im Hauptmenü sofort vorne und nicht erst beim Einsatzstart; Was ist neu: wird beim Starten eines Einsatzes automatisch geschlossen",
-  "sha256": "ccb493f11efd9a36110f3047293d7130bd20b9471bd350e4c3133f3f3395b39c",
-  "sig": "3OMdwtMOMMMJQDpfv6qlB9T9tnpB1bKYQG/m9kKPu8I+ujM3610X+N6bSNz6LRDJJJz1FnKsNE5lTAUq+Sy6Bg==",
-  "size": 17820572
+  "build": 45,
+  "name": "game-45.bin",
+  "notes": "Haare: wirken nicht mehr durchsichtig (Verschattung des Kopfes schien durch die Haare)",
+  "sha256": "cb7cfe34900b78619a2b1159cbdebbad06a46b47f4845566c04f0b54e6e0fe92",
+  "sig": "CYIIa7o94HFsDO0BJ9P3q/vchUuxx9RgUh/fLC9W+kPc4f5PWebaaDRr2WMmM+DBF7wiQkkq9uRaObpS9UG0Bw==",
+  "size": 17819898
 }
