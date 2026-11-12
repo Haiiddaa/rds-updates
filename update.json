@@ -1,8 +1,8 @@
 {
-  "build": 47,
-  "name": "game-47.bin",
-  "notes": "Kleidung: Haut am Hals sticht nicht mehr zackig durch den Kragen, wenn der Kopf gedreht oder überstreckt ist",
-  "sha256": "e8378eccb20cf93df131eeac23ecdf959078ee0857d11892f5f5123198772b57",
-  "sig": "lr8xA5k5I7+BVAJOCgK10ZwOGfTzBt6Phk4Yg8VMnOMW8Z3a8kLVHuA4eamNIDGlye1gozKB0w2daXhR2sy+Ag==",
-  "size": 17819435
+  "build": 48,
+  "name": "game-48.bin",
+  "notes": "Neue Grafikstufe „Niedrig“ für iPads, Tablets und schwache Geräte; Tablets und Handys starten automatisch mit „Niedrig“; Grafik-Taste schaltet jetzt Hoch → Normal → Niedrig; Niedrig: geringere Renderauflösung, keine Kantenglättung und keine Schatten für flüssiges Spielen; Grafikwechsel wirkt sofort ohne Neustart",
+  "sha256": "96dffe0c4a19f31f2f901ae047a2b853ab6465f944fadaae5b3815400c1f9644",
+  "sig": "q4t/gK4pJjL2CWdQfPmMHFTiEKQZ7/6EvJL45uVRjaWi0ecTdGhJDl+JpVTjmP2y2WgYdfqDbHHCbn8gJhjNBg==",
+  "size": 17817592
 }
