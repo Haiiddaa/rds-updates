@@ -1,8 +1,8 @@
 {
-  "build": 50,
-  "name": "game-50.bin",
-  "notes": "Texturen und Stimmen werden jetzt beim ersten Start einmalig komplett heruntergeladen, mit Fortschrittsanzeige wie beim Update;Danach startet das Spiel ohne Nachladen;iPads, Tablets und Handys laden keine HD-Texturen und starten direkt",
-  "sha256": "d8c621eaf6ad9551f2447842fd831706ee0dc4b30b0fed26153e9bccc30aaad6",
-  "sig": "arA59lrj04NllcGAONpeYYElWl+BYRaZmoAAo7rZkHPTkino3r1uljMwzZslKd8SR/r8ES2ta1iXvURMKxCZDw==",
-  "size": 19239623
+  "build": 51,
+  "name": "game-51.bin",
+  "notes": "Download von Texturen und Stimmen nach dem Update jetzt mit eigener Anzeige wie beim Update: Prozent, MB-Fortschritt, Geschwindigkeit und Restzeit",
+  "sha256": "0beb7e24028b5909863521a7002bef9c1daa84f48a73b55fd64e7f598dfca1ec",
+  "sig": "kQOGgvmh4MREZROGnmJz8ea2sq5qu6DBAQzImZNJt1FQuXxASSyps323zH0IBs1t+Dcg6+3YN3liFLiY6IqWDg==",
+  "size": 19239729
 }
