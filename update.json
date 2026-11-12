@@ -1,8 +1,8 @@
 {
-  "build": 48,
-  "name": "game-48.bin",
-  "notes": "Neue Grafikstufe „Niedrig“ für iPads, Tablets und schwache Geräte; Tablets und Handys starten automatisch mit „Niedrig“; Grafik-Taste schaltet jetzt Hoch → Normal → Niedrig; Niedrig: geringere Renderauflösung, keine Kantenglättung und keine Schatten für flüssiges Spielen; Grafikwechsel wirkt sofort ohne Neustart",
-  "sha256": "96dffe0c4a19f31f2f901ae047a2b853ab6465f944fadaae5b3815400c1f9644",
-  "sig": "q4t/gK4pJjL2CWdQfPmMHFTiEKQZ7/6EvJL45uVRjaWi0ecTdGhJDl+JpVTjmP2y2WgYdfqDbHHCbn8gJhjNBg==",
-  "size": 17817592
+  "build": 49,
+  "name": "game-49.bin",
+  "notes": "Großes Grafik-Update: Einsätze jetzt auch außerhalb des RTW – Wohnung, Einfamilienhaus mit Treppensturz und Straße mit Verkehrsunfall, Polizei und RTW;HD- und 4K-Texturen für Haut, Kleidung, Böden und Umgebung (werden beim ersten Bedarf einmalig nachgeladen);Viele neue Grafikeinstellungen: Auflösung, Schatten, Umgebungsverdeckung, Kantenglättung, Leuchteffekte, Schärfe, Helligkeit, Sichtfeld, Bildratenbegrenzung und FPS-Anzeige;Neue Grafikstufe „Sehr niedrig“ für iPads, Tablets und Handys, startet dort automatisch;Detailliertere Haut und verschiedene Hauttypen bei Patienten;Neue, gefühlvollere Patientenstimmen;EKG-Monitor RDS M3 komplett neu: Drehrad-Bedienung, AED-Modus mit Sprachansagen, Schrittmacher (Demand, Fix, Overdrive), Alarmgrenzen, Alarmverlauf und Ausdruck;RDS M3 mit neu modellierten, gepolsterten Taschen;Kabel, Beatmungsschlauch und Magensonde liegen jetzt realistisch auf Patient und Trage und hängen natürlich durch;Rhythmuston des Monitors leiser;„EKG Elektroden ab“ kommt erst, wenn angelegte Elektroden wirklich abgehen;Hände und Augen bei einigen Patienten korrigiert;Viele kleine Grafikfehler behoben",
+  "sha256": "b39e469446f5559562e6aa6fbedb3d3680046688f9bce4238f1bc4c2607faf08",
+  "sig": "CRPdiX7X6N/rVJmiTFN0yx474Dbh/jevUGfgM3mp3zA07BPnlke8lUoua3iY8JfehncdgZiVtrFKxC2NFKOiCQ==",
+  "size": 19234438
 }
