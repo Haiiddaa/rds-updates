@@ -1,8 +1,8 @@
 {
-  "build": 49,
-  "name": "game-49.bin",
-  "notes": "Großes Grafik-Update: Einsätze jetzt auch außerhalb des RTW – Wohnung, Einfamilienhaus mit Treppensturz und Straße mit Verkehrsunfall, Polizei und RTW;HD- und 4K-Texturen für Haut, Kleidung, Böden und Umgebung (werden beim ersten Bedarf einmalig nachgeladen);Viele neue Grafikeinstellungen: Auflösung, Schatten, Umgebungsverdeckung, Kantenglättung, Leuchteffekte, Schärfe, Helligkeit, Sichtfeld, Bildratenbegrenzung und FPS-Anzeige;Neue Grafikstufe „Sehr niedrig“ für iPads, Tablets und Handys, startet dort automatisch;Detailliertere Haut und verschiedene Hauttypen bei Patienten;Neue, gefühlvollere Patientenstimmen;EKG-Monitor RDS M3 komplett neu: Drehrad-Bedienung, AED-Modus mit Sprachansagen, Schrittmacher (Demand, Fix, Overdrive), Alarmgrenzen, Alarmverlauf und Ausdruck;RDS M3 mit neu modellierten, gepolsterten Taschen;Kabel, Beatmungsschlauch und Magensonde liegen jetzt realistisch auf Patient und Trage und hängen natürlich durch;Rhythmuston des Monitors leiser;„EKG Elektroden ab“ kommt erst, wenn angelegte Elektroden wirklich abgehen;Hände und Augen bei einigen Patienten korrigiert;Viele kleine Grafikfehler behoben",
-  "sha256": "b39e469446f5559562e6aa6fbedb3d3680046688f9bce4238f1bc4c2607faf08",
-  "sig": "CRPdiX7X6N/rVJmiTFN0yx474Dbh/jevUGfgM3mp3zA07BPnlke8lUoua3iY8JfehncdgZiVtrFKxC2NFKOiCQ==",
-  "size": 19234438
+  "build": 50,
+  "name": "game-50.bin",
+  "notes": "Texturen und Stimmen werden jetzt beim ersten Start einmalig komplett heruntergeladen, mit Fortschrittsanzeige wie beim Update;Danach startet das Spiel ohne Nachladen;iPads, Tablets und Handys laden keine HD-Texturen und starten direkt",
+  "sha256": "d8c621eaf6ad9551f2447842fd831706ee0dc4b30b0fed26153e9bccc30aaad6",
+  "sig": "arA59lrj04NllcGAONpeYYElWl+BYRaZmoAAo7rZkHPTkino3r1uljMwzZslKd8SR/r8ES2ta1iXvURMKxCZDw==",
+  "size": 19239623
 }
