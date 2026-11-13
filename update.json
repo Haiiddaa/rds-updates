@@ -1,8 +1,8 @@
 {
-  "build": 52,
-  "name": "game-52.bin",
-  "notes": "Webspiel: Texturen und Stimmen werden nicht mehr auf die Geräte der Spieler geladen, sondern liegen auf dem Webspiel-Server und werden von dort gestreamt;Bereits im Browser gespeicherte Daten werden automatisch entfernt;Windows-Version lädt das Datenpaket weiterhin einmalig herunter",
-  "sha256": "3d409db5e5c7f8d6563b4a3ac34964cd497caaf308ca71cf20934606235f1c00",
-  "sig": "Z13txps52P/v2RYjGsL054ln8/PmM9oo9A4Le7XLbLuyEtmnYnfqfQhKVZ54h+Vv3mnrK4Sc1eYOpRrMvK5OCA==",
-  "size": 19240041
+  "build": 53,
+  "name": "game-53.bin",
+  "notes": "Flackern behoben: Die automatische Auflösungsanpassung hat das Bild beim Umschalten kurz schwarz werden lassen",
+  "sha256": "a7a6ae8be5dae82b6364be02d071750dd15298b184e74b85ae858c529d802307",
+  "sig": "TWaAEJvumLMU6qokph79hQYBLD7sjAE/TUY3rIH2euNwOgbTdcdnZM1MfzRr2Oi0Pl2h/deblCzJfjJc8hOqAA==",
+  "size": 19240058
 }
