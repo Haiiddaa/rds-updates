@@ -1,8 +1,8 @@
 {
-  "build": 55,
-  "name": "game-55.bin",
-  "notes": "Halskrause neu positioniert: sitzt zwischen Halsansatz und Kinnunterkante, reicht nicht mehr über Mund und Nase; Kinnstütze flacher; Fremdkörperfixierung überarbeitet: kleinere, glatt anliegende Kompressen 5 × 5 cm; schmalere Polsterrollen ober- und unterhalb des Stabs; je ein schmaler, eng anliegender Bindengang über jeder Rolle; Haut der Patienten deutlich matter, Schweiß glänzt nur noch leicht; Schmerzen: statt Brummton 22 verschiedene echte Ausrufe (von „Au!“ bis „Ich halt das nicht mehr aus!“), wechseln sich ab und wiederholen sich nicht direkt; nur eingetrübte Patienten stöhnen noch leise; Patienten sprechen wieder klar: Gefühlsvarianten mit Atem- und Zischgeräuschen abgeschaltet (z. B. Adenosin-Reaktion „Oh Gott, was ist das?! Mir wird ganz komisch …“); große Gefühls-Sprachdateien werden nicht mehr geladen",
-  "sha256": "0e2a7aff770751fafb212a9f61b0fd73001b5eaa82464ae5eecd0673eff2a870",
-  "sig": "rCLkMJIk/t211cF2hJxdgwllaF9URequPATLIiwDyRTn7eIzETX/eD81V2ntma2WNndRJCB678TDzvzv88cNCA==",
-  "size": 35491069
+  "build": 56,
+  "name": "game-56.bin",
+  "notes": "Halskrause komplett neu modelliert: sitzt jetzt nur am Hals unter der Kinnunterkante, Mund und Nase bleiben frei; Halskrause schlanker, ohne abstehende Kanten, Schaumpolster dezenter; Haare stechen nicht mehr durch die Halskrause; störende dunkle Platte hinten an der Halskrause entfernt; Fixierung des Fremdkörpers im Oberschenkel komplett neu: Kompressen liegen flach auf der Haut statt halb darin; Polsterrollen liegen quer ober- und unterhalb der Stange direkt auf dem Bein; Binden laufen straff ums Bein und über die Rollen, keine schwebenden Streifen mehr; Rollen ohne abstehende Lage; neu: HME-Filter zwischen Tubus und Beatmungsschlauch bzw. Beutel, mit Luer-Anschluss für die Kapnografie; Beatmungsgerät deutlich leiser; Sätze mit Gefühl (z. B. Mir ist so kalt) werden jetzt gesprochen statt nur angezeigt; Weinen, Stöhnen, Wimmern, Jammern und Seufzen im Text sind jetzt zu hören; Husten und Schreien aus Regieanweisungen werden abgespielt; Sätze von Kollege und Notarzt neu aufgenommen; über 250 neue Sprachaufnahmen",
+  "sha256": "cbe0a76ea6939d0d8f201bc579c4dcf2a3a855d12cb4dc32c6ad442aba0b650c",
+  "sig": "zOc9nyEWcTEjS0bXHDRP4x/vqdK/Ai2AWsxFcMK12ucouLEF8Lh08sFb7QHet0wDIAU/+0yh95fJQVBDd1eSBQ==",
+  "size": 44104442
 }
