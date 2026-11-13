@@ -1,8 +1,8 @@
 {
-  "build": 54,
-  "name": "game-54.bin",
-  "notes": "Patientenstimmen: 451 fehlende Sätze neu aufgenommen (z. B. „Es tut so weh!“ nach der Beschwerde), jetzt 754 Sätze in allen 10 Stimmen; Sätze ohne eigene Aufnahme werden aus aufgenommenen Teilsätzen zusammengesetzt statt von der Browserstimme gesprochen; Fremdkörper neu modelliert: gerippter, angerosteter Baustahl; Fremdkörperfixierung neu: zwei Lagen Kompressen um die Eintrittsstelle (blutdurchtränkt), Mullbinden als Polsterrollen ober- und unterhalb, zirkuläre Bindengänge am Bein; Halskrause neu modelliert: Kinnstütze, Brustbeinauflage, große Trachealöffnung, Lüftungslöcher hinten, Schaumpolster an den Rändern, Größenknöpfe und Klettverschluss; Halskrause neu positioniert: wird am Hals vermessen und sitzt zwischen Kinn/Hinterhaupt und Brustbein/Schultern; Umgebung draußen (RTW-Fenster) komplett neu: Häuser mit echten Fensteröffnungen, Rahmen, Sprossen, Fensterbänken, Gardinen und Rollläden; Altbauten mit Gesimsen, Fensterfaschen, Balkonen und Läden mit Markisen; Ziegeldächer mit Dachrinnen, Fallrohren, Gauben und Schornsteinen; Klinker- und Fachwerkhäuser; Haustüren mit Stufen und Vordach; Vorgärten mit Hecken, Zäunen, Mauern, Wegen und Mülltonnen; neue Laub- und Nadelbäume, Autos mit Karosserieform, Laternen mit Bogenmast, Gehwegplatten, neuer Himmel mit Wolken und Horizont; Einsätze beginnen weiterhin im RTW",
-  "sha256": "8e73c07bd186255d8c8d990dcea12015f1b24181ae91f872d4657a0c20dd1f89",
-  "sig": "Mikf2DtbpVXfIfH8qQ1C9gM7xOcskgt/qnaVVxusQZvYY72F+A81rU1LdyXpwJDgGqY1oA4hyO6MuarypZPqDw==",
-  "size": 34993934
+  "build": 55,
+  "name": "game-55.bin",
+  "notes": "Halskrause neu positioniert: sitzt zwischen Halsansatz und Kinnunterkante, reicht nicht mehr über Mund und Nase; Kinnstütze flacher; Fremdkörperfixierung überarbeitet: kleinere, glatt anliegende Kompressen 5 × 5 cm; schmalere Polsterrollen ober- und unterhalb des Stabs; je ein schmaler, eng anliegender Bindengang über jeder Rolle; Haut der Patienten deutlich matter, Schweiß glänzt nur noch leicht; Schmerzen: statt Brummton 22 verschiedene echte Ausrufe (von „Au!“ bis „Ich halt das nicht mehr aus!“), wechseln sich ab und wiederholen sich nicht direkt; nur eingetrübte Patienten stöhnen noch leise; Patienten sprechen wieder klar: Gefühlsvarianten mit Atem- und Zischgeräuschen abgeschaltet (z. B. Adenosin-Reaktion „Oh Gott, was ist das?! Mir wird ganz komisch …“); große Gefühls-Sprachdateien werden nicht mehr geladen",
+  "sha256": "0e2a7aff770751fafb212a9f61b0fd73001b5eaa82464ae5eecd0673eff2a870",
+  "sig": "rCLkMJIk/t211cF2hJxdgwllaF9URequPATLIiwDyRTn7eIzETX/eD81V2ntma2WNndRJCB678TDzvzv88cNCA==",
+  "size": 35491069
 }
